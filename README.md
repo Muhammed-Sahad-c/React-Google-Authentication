@@ -1,8 +1,33 @@
-# React + Vite
+# React JS : A Step-by-Step Guide to Google Authentication
+🚀 Integrating Google login system in React JS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📃 Read Blog on medium : 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+### Setup project
+
+
+
+Clone the repository
+            
+    https://github.com/00sahad/React-Google-Authentication.git
+
+Go to the project directory
+
+    cd server
+
+Install dependencies
+
+    npm install
+
+Start the server
+
+    npm run dev
+
+
+
+### 🎊🎉HAPPY NEW YEAR🎊🎉✨
+
+    
+
