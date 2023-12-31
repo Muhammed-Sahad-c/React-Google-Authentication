@@ -11,7 +11,7 @@
 
 Clone the repository
             
-    https://github.com/00sahad/React-Google-Authentication.git
+    https://github.com/Muhammed-Sahad-c/React-Google-Authentication.git
 
 Go to the project directory
 
