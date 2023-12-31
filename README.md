@@ -4,7 +4,7 @@
     </div>
     <div style="flex: 1; padding: 20px; box-sizing: border-box;">
         <h1>React JS : A Step-by-Step Guide to Google Authentication 🚀</h1>
-        <p>Read Blog on medium: <a href="https://medium.com/@sahadmuhammed289/react-js-a-step-by-step-guide-to-google-authentication-926d0d85edbd" target="_blank">React JS: A Step-by-Step Guide to Google Authentication</a></p>
+        <p>📃Read Blog on medium: <a href="https://medium.com/@sahadmuhammed289/react-js-a-step-by-step-guide-to-google-authentication-926d0d85edbd" target="_blank">React JS: A Step-by-Step Guide to Google Authentication</a></p>
     </div>
 </div>
 
